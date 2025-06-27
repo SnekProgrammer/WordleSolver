@@ -2,11 +2,11 @@
 A simple Wordle solver that uses a dictionary of words to find the best guess based on the previous guesses and their results.
 
 # Usage
-    ```bash
-    git clone https://github.com/SnekProgrammer/WordleSolver.git
-    cd WordleSolver
-    python main.py
-    ```
+```bash
+git clone https://github.com/SnekProgrammer/WordleSolver.git
+cd WordleSolver
+python main.py
+```
 To use a different wordlist, you can replace the `words.txt` file, it should be one word per line.
 
 # Accuracy
